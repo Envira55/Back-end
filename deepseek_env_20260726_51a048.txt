@@ -1,0 +1,5 @@
+PORT=5000
+MONGODB_URI=mongodb://localhost:27017/envira_diagnostic
+JWT_SECRET=envira_diagnostic_secret_key_2025
+ADMIN_DEFAULT_KEY=envira123
+NODE_ENV=development
